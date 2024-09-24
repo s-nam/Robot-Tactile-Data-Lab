@@ -1,13 +1,13 @@
 ---
 longform:
   format: scenes
-  title: 4. Publications
+  title: 2. Members
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Journals
-    - Patents
-    - Conferences & Demos
+    - Professor
+    - Students
+    - Alumni
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---

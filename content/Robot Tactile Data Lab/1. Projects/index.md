@@ -1,13 +1,12 @@
 ---
 longform:
   format: scenes
-  title: 4. Publications
+  title: 1. Projects
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Journals
-    - Patents
-    - Conferences & Demos
+    - Current Projects
+    - Past Projects
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---
