@@ -3,8 +3,8 @@ title: Robot Tactile Data Laboratory at KNU
 draft: false
 tags:
   - KNU
-  - Data
-  - Science
+  - Data
+  - Science
 ---
 
 - 경북대학교 데이터사이언스대학원 로봇 촉각 데이터 연구실입니다.
