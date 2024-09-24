@@ -22,3 +22,4 @@ tags:
 - **[P16]** Saekwang Nam, Ki-uk Kyung, Sung-Ryul Yun, Sun-tak Park, and Bong-Je Park. Shapevariable optical element and optical read/write device including the same, July 28 2015. US Patent 9,091,810
 - **[P17]** Sun Tak Park, Sung Ryul Yun, Bong Je Park, Saekwang Nam, and Ki Uk Kyung. Reflective varifocal lens and imaging system including the same, August 20 2015. US Patent App. 14/618,282
 - **[P18]** Saekwang Nam, Ki Uk Kyung, Sung Ryul Yun, Bong Je Park, and Sun Tak Park. Tunable lens system, July 23 2015. US Patent App. 14/600,369
+- **[P19]** Ki-uk Kyung, Sung-Ryul Yun, Sun-tak Park, Bong-Je Park, and Saekwang Nam. Variable-shape optical element, February 12 2015. US Patent App. 14/316,083
