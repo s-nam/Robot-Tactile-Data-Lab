@@ -2,7 +2,8 @@
 title: "Professor"
 draft: false
 tags:
-  - Professor, CV
+  - Professor
+  - CV
 ---
 
 # Saekwang Nam (남세광)
