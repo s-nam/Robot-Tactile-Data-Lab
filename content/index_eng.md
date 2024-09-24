@@ -1,5 +1,5 @@
 ---
-title: 경북대학교 로봇 촉각 데이터 연구실
+title: Robot Tactile Data Laboratory at KNU
 draft: false
 tags:
   - KNU
