@@ -4,7 +4,9 @@ longform:
   title: 3. News
   workflow: Default Workflow
   sceneFolder: /
-  scenes: []
+  scenes:
+    - Awards
+    - Field Trips
   sceneTemplate: templates/chapter.md
   ignoredFiles: []
 ---

@@ -5,6 +5,8 @@ tags:
   - KNU
   - Data
   - Science
+  - Robot
+  - Haptics
 ---
 - This is Robot Tactile Data Lab in the Graduate School of Data Science at Kyungpook National University.
 

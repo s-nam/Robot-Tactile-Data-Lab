@@ -6,8 +6,7 @@ tags:
   - Data
   - Science
   - Robot
-  - Tactile
-  - Sensor
+  - Haptics
 ---
 - 경북대학교 데이터사이언스대학원 로봇 촉각 데이터 연구실입니다.
 - This is Robot Tactile Data Lab in the Graduate School of Data Science at Kyungpook National University.
@@ -30,6 +29,7 @@ tags:
 # II. 진학 안내
 
 ## 🎓박사과정 학생 모집 (2025년 3월 시작)
+- 자세한 내용은 [[Recruitments#🎓박사과정 학생 모집 (2025년 3월 시작)|여기]]를 참고 해주세요.
 - 로봇 촉각 센서의 개발 및 가상화
 - AI 기술을 활용한 물체조작 연구
 - 박사과정 중 해외공동연구 기회 제공
