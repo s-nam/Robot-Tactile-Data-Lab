@@ -20,3 +20,6 @@ tags:
 # Obsidian ([[content/Obsidian/index|Click!]])
 - This section provides the know-hows to use ``Obsidian``, the best knowledge-maintenance tool.
 - 최고의 지식 관리 툴인 ``Obsidian``의 활용법에 대해서 안내합니다.
+
+## 탭 아이콘 저작권 표시
+<a href="https://www.flaticon.com/kr/free-icons/-" title="인공 지능 아이콘">인공 지능 아이콘 제작자: Freepik - Flaticon</a>
