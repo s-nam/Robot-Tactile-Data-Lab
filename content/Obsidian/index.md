@@ -6,5 +6,6 @@ longform:
   sceneFolder: /
   scenes: []
   sceneTemplate: templates/chapter.md
-  ignoredFiles: []
+  ignoredFiles:
+    - Untitled 20241002 123102
 ---
