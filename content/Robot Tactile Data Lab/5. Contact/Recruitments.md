@@ -26,6 +26,6 @@ tags:
 ## 🎓석사과정 학생 모집 (2025년 3월 시작)
 - 입시 상담 운영 (신청: 24년10월14일-16일): [신청안내](https://home.knu.ac.kr/HOME/datascience/sub.htm?mode=view&mv_data=aWR4PTEyODcmc3RhcnRQYWdlPTAmbGlzdE5vPTY5MyZ0YWJsZT1leF9iYnNfZGF0YV9kYXRhc2NpZW5jZSZuYXZfY29kZT1kYXQxNjM5OTU5NzE1JmNvZGU9eW1neXNlT2lveXVXJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9Jm9yZGVyX2xpc3Q9Jmxpc3Rfc2NhbGU9JnZpZXdfbGV2ZWw9JnZpZXdfY2F0ZT0mdmlld19jYXRlMj0=)
 - 원서접수: 2024.11.13 (수) ~ 2024.11.20 (수)
-- 입시설명회: 2024.11.5 (화) 경북대학교 제4합동강의동 (장소 추후안내) 또는 온라인 Zoom
+- 입시설명회: 2024.11.5 (화) 경북대학교 제4합동강의동 312호 또는 온라인 Zoom [링크](https://us02web.zoom.us/j/88276929377?pwd=tZuPdpbUGMLpdkrH7Xzf94TFFoo4FV.1)(암호: 20241105)
 - 경북대학교 데이터사이언스대학원 [모집요강](https://ipsi2.knu.ac.kr/mojib/?m_type=ARC&m_sub_type=ARC_02)
 - 경북대학교 데이터사이언스대학원 입시관련 [공지사항](https://ipsi2.knu.ac.kr/notice/?m_type=ARC)
