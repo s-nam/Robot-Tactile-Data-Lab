@@ -12,9 +12,10 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-9LBRJZ47VP"
     },
-    locale: "en-US",
+    locale: "ko-KR",
     baseUrl: "s-nam.github.io/Robot-Tactile-Data-Lab",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
